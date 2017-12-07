@@ -1,0 +1,91 @@
+<style>
+.center {
+    text-align: center;
+}
+	.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+div.volumeone {
+    width: 1300px;
+    margin: auto;
+	padding: 3px;
+}
+h2 {
+    text-align: center;
+}
+div.logo img {
+    float: left;
+	padding-right: 3px;
+}
+.maivvis2 img {
+	float: left;
+	padding-bottom: 80px;
+	padding-left: 120px;
+}
+.zero-profile-piture img {
+	float: left;
+	padding-bottom: 80px;
+	
+}
+.angel img {
+	float: left;
+	padding-bottom: 80px;
+	margin: auto;
+}
+.demon img {
+	float: left;
+	padding-bottom: 80px;
+	padding-left: 120px;
+}
+.cypress img {
+	float: left;
+	padding-bottom: 80px;
+}
+.ahrix img {
+	float: left;
+	padding-bottom: 80px;
+}
+
+
+div.rights {
+    width: 250px;
+    margin: auto;
+	text-align: center;
+	
+}
+div.contactus {
+    width: 450px;
+    margin: auto;
+	float: right;
+}
+div.followus {
+    width: 150px;
+    margin: auto;
+	float: right;
+}
